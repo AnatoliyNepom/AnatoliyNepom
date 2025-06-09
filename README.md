@@ -8,7 +8,7 @@
 ### <img src="images/katana-ravens-vagabond.png" title="Инструменты и техники" alt="Инструменты и техники" height="40"/> Мои инструменты и техники
 ---
 <p align="center">
-  <img src="icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="icons/jira-icon.png" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="icons/allure-testops.png" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>
   <img src="icons/testit.png" title="TestIT" alt="TestIT" width="40" height="40"/>
   <img src="icons/chrome-devtools.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
