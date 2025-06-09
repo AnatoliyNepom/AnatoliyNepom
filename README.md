@@ -5,7 +5,7 @@
 <a href="https://drive.google.com/file/d/1dutgSNbgSj-Sck-1xzPiNWrv0r04hGCk/view">Резюме QA Непомнящий А.С.</a>   
 [upd Июнь 2025]  
 
-### <img src="images/katana-ravens-vagabond.png" title="Инструменты и техники" alt="Инструменты и техники" height="40"/> Мои инструменты и техники
+## <img src="images/katana-ravens-vagabond.png" title="Инструменты и техники" alt="Инструменты и техники" height="40"/> Мои инструменты и техники
 <p align="center">
   <img src="icons/jira-icon.png" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="icons/allure-testops.png" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>
@@ -33,7 +33,7 @@
   <img src="icons/python.svg" title="Python" alt="Python" width="35" height="35"/>
 </p>  
 
-### <img src="images/koi-carassius-auratus.png" title="Тестовые артефакты" alt="Тестовые артефакты" height="40"/> Тестовые артефакты
+## <img src="images/koi-carassius-auratus.png" title="Тестовые артефакты" alt="Тестовые артефакты" height="40"/> Тестовые артефакты
 <ul>
   <li><a href="https://github.com/AnatoliyNepom/Web-application-testing">Тестирование веб-приложения</a></li>
   <li><a href="https://github.com/AnatoliyNepom/API-testing-of-Web-application">Тестирование API</a></li>
@@ -43,7 +43,7 @@
   <li><a href="https://github.com/AnatoliyNepom/Bash-basic">Базовые команды в bash</a></li>
 </ul>  
 
-### <img src="images/vagabond-water-sword.png" height="40"/> Пройденные курсы
+## <img src="images/vagabond-water-sword.png" height="40"/> Пройденные курсы
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | rusau.net/ **Функциональное тестирование ПО**                   | 01/2025 - 06/2025 |
@@ -53,7 +53,7 @@
 | Яндекс Практикум Грейд/ **Основы тестирования веб-приложений**  | 09/2024 - 10/2024 |
 | stepik.org/ **Программирование на Python**                      | 10/2020 - 02/2021 |
 
-### <img src="images/scrolls.jpeg" height="40"/> Изученная литература
+## <img src="images/scrolls.jpeg" height="40"/> Изученная литература
 - **«Фулстек тестирование»**  
   Гаятри Мохан  
 
